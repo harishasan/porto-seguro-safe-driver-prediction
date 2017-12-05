@@ -1,0 +1,7 @@
+1. PCA, tSNE: https://www.kaggle.com/tilii7/dimensionality-reduction-pca-tsne
+2. Python Target Encoding: https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features
+3. Noise Analysis of Features: https://www.kaggle.com/ogrellier/noise-analysis-of-porto-seguro-s-features
+4. Entity Embeding Neural Network: https://www.kaggle.com/aquatic/entity-embedding-neural-net
+5. Libffm : https://www.kaggle.com/scirpus/libffm-generator-lb-280
+6. bayseian Optimization of XGB parameters: https://www.kaggle.com/tilii7/bayesian-optimization-of-xgboost-parameters
+7. 
